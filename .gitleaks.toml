@@ -1,0 +1,4 @@
+title = "ChuA Unified Platforms Gitleaks Policy"
+
+[extend]
+useDefault = true
